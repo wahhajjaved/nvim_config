@@ -1,0 +1,3 @@
+ 
+Jump to a subject:  Position the cursor on a tag (e.g. bars) and hit CTRL-].
+Jump back:  Type CTRL-O.  Repeat to go further back

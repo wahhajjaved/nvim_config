@@ -1,0 +1,9 @@
+#starter config for clangd. Needs to be placed at the root
+#of each project for these settings to take effect
+
+
+#Affects how a source file is parsed
+CompileFlags:
+  Compiler: gcc
+  Add: [-Wall, -Wextra, -pedantic, -std=gnu90]
+
